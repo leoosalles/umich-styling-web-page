@@ -20,7 +20,7 @@
   ✅ <strong>Box model properties</strong> applied to images (<code>border</code>, <code>padding</code>, <code>border-radius</code>).
 </p>
 <p>
-  ✅ <code>Enhanced paragraph readability</code> using <code>line-height</code>.
+  ✅ <strong>Enhanced paragraph readability</strong> using <code>line-height</code>.
 </p>
 <p>
   ✅ <strong>Valid HTML & CSS</strong>, ensuring compliance with accessibility standards.
